@@ -9,17 +9,17 @@ This repository contains instructions for setting up a new application that will
    - Work on the deployment process within this repository.
 
 2. **Automate Infrastructure and Joomla Setup:**
-   - Automate the setup of infrastructure and Joomla application within the chosen repository.
+   - Automate the setup of infrastructure and Joomla application.
 
 ### Requirements
 
 Ensure the following requirements are met:
 
 1. **Operating System Compatibility:**
-   - Ubuntu Linux 20.04 or Amazon Linux 2023.
+   - Ubuntu Linux 20.04 (or newer) or Amazon Linux 2023.
 
 2. **Joomla Version:**
-   - Utilize the latest version of Joomla, with the ability to parameterize the version.
+   - Utilize Joomla 4.4 or newer.
 
 3. **Web Server Options:**
    - Choose between Apache, Nginx, or any preferred web server.
@@ -42,13 +42,10 @@ Ensure the following requirements are met:
 Follow these instructions to install and try out the solution:
 
 1. **Installation Steps:**
-   - [Provide detailed steps for installation]
+   - Provide detailed steps for installation
 
 2. **Testing the Solution:**
-   - [Explain how to test the deployed application]
-
-3. **Additional Features:**
-   - [If any additional features, tools, or techniques were implemented, describe them here]
+   - Explain how to test the deployed application
 
 ### Assumptions
 
