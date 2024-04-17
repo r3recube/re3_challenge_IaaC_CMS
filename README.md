@@ -1,6 +1,6 @@
 # re3_challenge_IaaC_CMS_Senior
 
-This repository contains instructions for setting up a new application that will be deployed soon. Follow the steps below to create the necessary infrastructure and deploy the Joomla application.
+This repository contains instructions for setting up a new application that will be deployed soon. Follow the steps below to create the necessary infrastructure and deploy the web application.
 
 ### Instructions
 
