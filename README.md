@@ -1,4 +1,4 @@
-# re3_challenge_IaaC_Joomla
+# re3_challenge_IaaC_CMS_Senior
 
 This repository contains instructions for setting up a new application that will be deployed soon. Follow the steps below to create the necessary infrastructure and deploy the Joomla application.
 
@@ -8,8 +8,8 @@ This repository contains instructions for setting up a new application that will
    - Create a new public repository on GitHub or a similar platform.
    - Work on the deployment process within this repository.
 
-2. **Automate Infrastructure and Joomla Setup:**
-   - Automate the setup of infrastructure and Joomla application.
+2. **Automate Infrastructure and CMS Setup:**
+   - Automate the setup of infrastructure and Web application.
 
 ### Requirements
 
@@ -18,23 +18,20 @@ Ensure the following requirements are met:
 1. **Operating System Compatibility:**
    - Ubuntu Linux 20.04 (or newer) or Amazon Linux 2023.
 
-2. **Joomla Version:**
-   - Utilize Joomla 4.4 or newer.
-
-3. **Web Server Options:**
+2. **Web Server Options:**
    - Choose between Apache, Nginx, or any preferred web server.
 
-4. **Deployment Objectives:**
+3. **Deployment Objectives:**
    - The deployed application must be:
      - Secure,
      - Fast,
      - Fault-tolerant, and
      - Adaptive to average load.
 
-5. **Log Backup:**
+4. **Log Backup:**
    - Implement backup of web server logs with a rotation period of 7 days.
 
-6. **Error Notification:**
+5. **Error Notification:**
    - Set up notifications for when more than 10 4xx requests are returned by the application.
 
 ### Bonus Requirements
