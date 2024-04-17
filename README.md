@@ -1,4 +1,4 @@
-# CMS Kata
+# re3_challenge_IaaC_Joomla
 
 This repository contains instructions for setting up a new application that will be deployed soon. Follow the steps below to create the necessary infrastructure and deploy the Joomla application.
 
