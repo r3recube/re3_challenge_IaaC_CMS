@@ -37,7 +37,7 @@ Ensure the following requirements are met:
 6. **Error Notification:**
    - Set up notifications for when more than 10 4xx requests are returned by the application.
 
-### Readme Instructions
+### Bonus Requirements
 
 Follow these instructions to install and try out the solution:
 
